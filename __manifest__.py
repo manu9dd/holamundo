@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "hola",
+    'name': "otronombreklk",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
@@ -12,7 +12,7 @@
     """,
 
     'author': "My Company",
-    'website': "https://www.yourcompany.com",
+    'website': "https://mipagina.es",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
